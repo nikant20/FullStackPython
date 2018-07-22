@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+
+li{
+    color: rgb(255, 97, 0);
+}
+p{
+    color: #0895a8;
+}
+h4{
+    /* rgba stands for red, green, blue, alpha. aplha stands for
+    transparency of color and ranges from 0 to 1. where 0 means fully
+    transparent and 1 means opaque. */
+    color: rgba(255, 97, 0, 0.5)
+}
